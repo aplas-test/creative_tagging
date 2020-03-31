@@ -1,23 +1,27 @@
 {
-  "id": "creative_tagging",
-  "name": "Creative Tagging",
-  "categoryId": "core",
-  "description": "Automated contextually-based standardization",
-  "investment_24m": "520",
-  "hostedtype": "OnPremise",
-  "vendor_contact_name": "Salvador Ferminger",
-  "licensing_cost": "51",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "50",
-  "deployment_date": "3/10/06",
-  "end_of_maintenance": "8/8/17",
-  "department": "Sales",
-  "status": "Active",
-  "end_of_life": "29/1/19",
-  "vendor_email": "Salvador.Ferminger@SAS.com",
-  "months_to_renew_support": "23",
-  "sme_email": "Ruperta.Saintpierre@memento.net.au",
-  "vendor_phone": "+33 675 191 1009",
-  "investment_number": "419"
+  "applications": [
+    {
+      "id": "creative_tagging",
+      "name": "Creative Tagging",
+      "categoryId": "core",
+      "description": "Automated contextually-based standardization",
+      "investment_24m": "520",
+      "hostedtype": "OnPremise",
+      "vendor_contact_name": "Salvador Ferminger",
+      "licensing_cost": "51",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "50",
+      "deployment_date": "3/10/06",
+      "end_of_maintenance": "8/8/17",
+      "department": "Sales",
+      "status": "Active",
+      "end_of_life": "29/1/19",
+      "vendor_email": "Salvador.Ferminger@SAS.com",
+      "months_to_renew_support": "23",
+      "sme_email": "Ruperta.Saintpierre@memento.net.au",
+      "vendor_phone": "+33 675 191 1009",
+      "investment_number": "419"
+    }
+  ]
 }
