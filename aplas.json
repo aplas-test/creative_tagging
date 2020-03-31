@@ -21,7 +21,28 @@
       "months_to_renew_support": "23",
       "sme_email": "Ruperta.Saintpierre@memento.net.au",
       "vendor_phone": "+33 675 191 1009",
-      "investment_number": "419"
+      "investment_number": "419",
+      "integrations": [
+        {
+          "id": "int-050",
+          "name": "INT-050",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",
+          "sourceApplicationId": "creative_tagging",
+          "targetApplicationId": "social_innovation",
+          "logical_server": "ONLINE",
+          "status_color": "#00FF00",
+          "pattern": "Scatter Gather",
+          "golive_date": "10/7/09",
+          "sme_name": "Gunner Cust",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "gcust7@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "18/3/17"
+        }
+      ]
     }
   ]
 }
