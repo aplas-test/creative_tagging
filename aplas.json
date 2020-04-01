@@ -28,7 +28,6 @@
           "name": "INT-050",
           "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
           "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",
-          "sourceApplicationId": "creative_tagging",
           "targetApplicationId": "social_innovation",
           "logical_server": "ONLINE",
           "status_color": "#00FF00",
